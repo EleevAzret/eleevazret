@@ -1,8 +1,6 @@
-![Header](https://github.com/EleevAzret/eleevazret/blob/main/assets/header.png)
-
 ## Hi there 👋 I'm Azret!
 
-🏃 I am currently working on [IRPSU](https://pfdo.ru/) projects
+🏃 I am currently working on [TEAMLY](https://teamly.ru/) project
 
 📦 I have developed big projects like [Social Services](https://soc.pfdo.ru/) and [Myple.online](https://myple.online/)
 
